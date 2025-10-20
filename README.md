@@ -1,3 +1,7 @@
+![Banner](https://www.github.com/ruzc5050/image.png)
+
+
+
 # 👋 ¡Hola, soy Cruz !
 
 💻 **QA Tester | Manual & Automation Testing | SQL | Postman | Selenium**

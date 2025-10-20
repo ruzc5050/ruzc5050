@@ -50,6 +50,6 @@ Apasionado por mejorar la experiencia del usuario y aprender nuevas herramientas
 
 ### 📫 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/cruz-m-profile)
-- [Correo](murillo.tester@gmail.com.com)
+- Correo Electorino: **murillo.tester@gmail.com**
 
 ⭐️ *Gracias por visitar mi perfil.*

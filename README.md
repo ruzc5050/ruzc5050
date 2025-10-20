@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Cruz Murillo!
 
-<!--
-**ruzc5050/ruzc5050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **QA Tester | Manual & Automation Testing | SQL | Postman | Selenium**
 
-Here are some ideas to get you started:
+Me dedico a garantizar la calidad del software mediante pruebas funcionales, validación de datos y creación de informes de errores.  
+Apasionado por mejorar la experiencia del usuario y aprender nuevas herramientas de automatización.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Herramientas y tecnologías
+- Jira | TestRail | Postman | Selenium | Git | SQL | Git Bash  
+- Pruebas manuales y automatizadas  
+- Validación de datos y reportes de defectos  
+
+### 📫 Conecta conmigo
+- [LinkedIn](https://www.linkedin.com/in/cruz-m-profile)
+- [Correo](murillo.tester@gmail.com.com)
+
+⭐️ *Gracias por visitar mi perfil.*

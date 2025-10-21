@@ -1,4 +1,4 @@
-![Banner](https://github.com/ruzc5050/image.png/blob/main/QAsoftwarecover.png?raw=true)
+![Banner](https://github.com/ruzc5050/ruzc5050/blob/main/QAsoftwarecover.png?raw=true)
 
 
 
